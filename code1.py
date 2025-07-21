@@ -6,3 +6,4 @@ c=a+b
 print("The answer is :",c)
 
 #hello
+print("The Answer of Multiplication is :", a*b)
