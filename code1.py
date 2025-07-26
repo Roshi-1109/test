@@ -8,3 +8,4 @@ print("The answer is :",c)
 #hello
 print("The Answer of Multiplication is :", a*b)
 print("The answer ofdivision is :", a/b)
+print("The remainder is :",a%b)
